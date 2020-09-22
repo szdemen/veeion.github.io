@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/szdemen/veeion.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+将自己的宝贵生命舍弃，
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+能如此爱着我的人是谁？
 
-### Markdown
+甘愿为我沉入深海，
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+以死相殉之人若是存在。
 
-```markdown
-Syntax highlighted code block
+那时我将从石像中获得解脱，
 
-# Header 1
-## Header 2
-### Header 3
+而且生命……生命也将复苏。
 
-- Bulleted
-- List
+可是，在负载着至重之物的生命旅程中，
 
-1. Numbered
-2. List
+如果终有一日我能重返人世，
 
-**Bold** and _Italic_ and `Code` text
+那个时候我会独自一人哭泣吧？
 
-[Link](url) and ![Image](src)
-```
+会为了我曾经的石像而哭泣吧？
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+即使我的血液如同葡萄酒那般滴滴鲜红，
 
-### Jekyll Themes
+又能有什么用呢？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/szdemen/veeion.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+便是如此想将爱我的人，
 
-### Support or Contact
+自水底深处唤醒，
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+依然无法做到。
